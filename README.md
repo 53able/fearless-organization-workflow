@@ -6,6 +6,8 @@
 
 [統合スキル](skills/fearless-organization-workflow/SKILL.md)から必要な専門スキルを選べます。[振り分け表](skills/fearless-organization-workflow/references/routing.md)に全14個の用途を記載しています。専門スキルは単独でも使えます。
 
+[スキル説明ガイド](docs/skills-guide.md)に、15スキルの用途・成果物・呼び出し例・使い分けをまとめています。
+
 ## 導入
 
 次のコマンドで導入できます。
