@@ -8,11 +8,13 @@
 
 ## 導入
 
-GitHubからCodexへ導入できます。
+次のコマンドで導入できます。
 
 ```sh
-npx skills add 53able/fearless-organization-workflow --skill '*' --agent codex --yes
+npx skills add 53able/fearless-organization-workflow
 ```
+
+インストールするスキルと導入先のエージェントは対話的に選択できます。全15スキルをCodexへ確認なしで導入する場合は `--skill '*' --agent codex --yes` を追加します。
 
 Vercel の `skills` CLI が検出する `skills/<name>/SKILL.md` 構成です。リポジトリのルートから一覧確認とCodexへの導入ができます。
 
