@@ -1,0 +1,4 @@
+interface:
+  display_name: "警告・悪い知らせへの対応"
+  short_description: "警告を確認可能な問いへ変え、防護・返答・再提起を設計する"
+  default_prompt: "$respond-to-warnings を使い、共有可能な事実から警告・悪い知らせへの対応の資料と引継ぎを作ってください。"

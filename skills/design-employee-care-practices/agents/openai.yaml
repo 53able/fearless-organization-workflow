@@ -1,0 +1,4 @@
+interface:
+  display_name: "従業員への配慮の制度化"
+  short_description: "支援と育成の不足や負担配分を点検し制度の変更候補を作る"
+  default_prompt: "$design-employee-care-practices を使って、状況を点検し、必要な人の判断と次の担当、再確認条件を含む実行案を作ってください。"

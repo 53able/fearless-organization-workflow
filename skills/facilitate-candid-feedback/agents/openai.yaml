@@ -1,0 +1,4 @@
+interface:
+  display_name: "率直なレビューとフィードバック"
+  short_description: "成果物の課題と行動の影響を分け、率直なレビューと改善対話を作る"
+  default_prompt: "$facilitate-candid-feedback を使い、共有可能な場面の情報から担当と再確認条件を含む成果物を作ってください。"

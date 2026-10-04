@@ -1,0 +1,4 @@
+interface:
+  display_name: "協働・引継ぎ・相互学習"
+  short_description: "専門や拠点を越える交信・援助要請・相互学習の運用を設計する"
+  default_prompt: "$design-teaming-and-knowledge-sharing を使い、共有可能な事実から協働・引継ぎ・相互学習の資料と引継ぎを作ってください。"

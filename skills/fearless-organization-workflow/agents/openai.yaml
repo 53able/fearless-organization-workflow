@@ -1,0 +1,4 @@
+interface:
+  display_name: "心理的安全性の統合・進行管理"
+  short_description: "複数の組織課題を必要な専門スキルへつなぎ、応答と未解消事項を追跡する"
+  default_prompt: "$fearless-organization-workflow でチームの課題を切り分け、担当と再確認条件のある改善台帳を作ってください。"

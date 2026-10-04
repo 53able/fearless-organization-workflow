@@ -1,0 +1,4 @@
+interface:
+  display_name: "概念と適用条件の整理"
+  short_description: "心理的安全性と信頼・親切・成果基準の混同を具体的な場面から整理する"
+  default_prompt: "$clarify-psychological-safety を使い、共有可能な場面の情報から担当と再確認条件を含む成果物を作ってください。"

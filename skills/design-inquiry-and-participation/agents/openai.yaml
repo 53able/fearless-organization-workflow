@@ -1,0 +1,4 @@
+interface:
+  display_name: "質問・傾聴・参加の設計"
+  short_description: "誘導しない問いと選べる参加経路を作り、理解確認と応答担当を設計する"
+  default_prompt: "$design-inquiry-and-participation を使い、共有可能な場面の情報から担当と再確認条件を含む成果物を作ってください。"

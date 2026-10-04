@@ -1,0 +1,4 @@
+interface:
+  display_name: "目的・基準・目標圧力の設計"
+  short_description: "高い基準と相談条件を両立し、目標圧力・戦略・資源の矛盾を点検する"
+  default_prompt: "$design-learning-accountability を使い、共有可能な場面の情報から担当と再確認条件を含む成果物を作ってください。"

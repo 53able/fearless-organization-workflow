@@ -1,0 +1,4 @@
+interface:
+  display_name: "知的な実験と撤退判断"
+  short_description: "最難関の未知を小さく試し、継続・変更・終了と学習移管を設計する"
+  default_prompt: "$design-intelligent-experiments を使い、共有可能な事実から知的な実験と撤退判断の資料と引継ぎを作ってください。"

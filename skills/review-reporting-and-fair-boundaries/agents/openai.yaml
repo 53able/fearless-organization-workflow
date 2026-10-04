@@ -1,0 +1,4 @@
+interface:
+  display_name: "独立した申告経路と公正な境界"
+  short_description: "申告先の利害関係と情報依存を点検し、保護と公正な判断へつなぐ"
+  default_prompt: "$review-reporting-and-fair-boundaries を使い、共有可能な事実から独立した申告経路と公正な境界の資料と引継ぎを作ってください。"

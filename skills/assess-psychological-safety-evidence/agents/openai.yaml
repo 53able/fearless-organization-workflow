@@ -1,0 +1,4 @@
+interface:
+  display_name: "測定・聞き取り・証拠解釈"
+  short_description: "尺度と聞き取りを照合し報告の変化を複数の解釈で検討する"
+  default_prompt: "$assess-psychological-safety-evidence を使って、状況を点検し、必要な人の判断と次の担当、再確認条件を含む実行案を作ってください。"

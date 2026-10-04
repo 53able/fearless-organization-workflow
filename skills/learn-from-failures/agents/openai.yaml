@@ -1,0 +1,4 @@
+interface:
+  display_name: "失敗分析と工程学習"
+  short_description: "復旧と恒久改善を分け、各役割の観察から再発と副作用を点検する"
+  default_prompt: "$learn-from-failures を使い、共有可能な事実から失敗分析と工程学習の資料と引継ぎを作ってください。"

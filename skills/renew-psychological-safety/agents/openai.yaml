@@ -1,0 +1,4 @@
+interface:
+  display_name: "修復・練習・継続改善"
+  short_description: "修復対話と発信受信の練習を設計し継続的な再点検につなげる"
+  default_prompt: "$renew-psychological-safety を使って、状況を点検し、必要な人の判断と次の担当、再確認条件を含む実行案を作ってください。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "多様性・包摂・所属感"
+  short_description: "多様な知識が参加と意思決定に届く経路を点検し改善案を作る"
+  default_prompt: "$design-inclusive-contribution を使って、状況を点検し、必要な人の判断と次の担当、再確認条件を含む実行案を作ってください。"

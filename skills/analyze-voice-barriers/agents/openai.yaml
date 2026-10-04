@@ -1,0 +1,4 @@
+interface:
+  display_name: "発言障壁の分析"
+  short_description: "発言を妨げる印象・不利益・徒労感を分け、受け手と経路を改善する"
+  default_prompt: "$analyze-voice-barriers を使い、共有可能な場面の情報から担当と再確認条件を含む成果物を作ってください。"
